@@ -34,7 +34,7 @@ GROQ_API_KEY=gsk_xxxxxxxx
 ```bash
 streamlit run app.py
 ```
-Opens at [http://localhost:8501](https://ai-resume-analyzer-nikwthnaef3xgnzmp7dm2n.streamlit.app/)
+Opens at [https://ai-resume-analyzer-nikwthnaef3xgnzmp7dm2n.streamlit.app/]
 
 ## Structure
 ```text
